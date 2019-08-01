@@ -1,0 +1,27 @@
+#word, #status {
+  font-size: 48px;
+  font-family: monospace;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #111111;
+}
+
+#badGuesses, #status {
+ font-size: 24px;
+  font-family: monospace;
+  color: #111111;
+  word-wrap: break-word;
+  }
+
+img {
+
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+body {
+
+text-align: center
+
+}
