@@ -3,13 +3,13 @@
   font-family: monospace;
   letter-spacing: 5px;
   text-align: center;
-  color: #111111;
+  color: hsl(0, 0%, 0%);
 }
 
 #badGuesses, #status {
  font-size: 24px;
   font-family: monospace;
-  color: #111111;
+  color: hsl(0, 100%, 50%);
   word-wrap: break-word;
   }
 
@@ -22,6 +22,16 @@ display: block;
 
 body {
 
-text-align: center
+font-family: monospace;
+text-align: center;
+
+}
+
+#heading {
+
+text-align: center;
+margin: 20px;
+color: hsl(120, 100%, 40%);
+
 
 }
